@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Solution {
 	
-	public int[] solution(int N, int[] stages) {
+	public static int[] solution(int N, int[] stages) {
         int[] hoony = new int[stages.length];
         
         for(int i = 0; i<stages.length; i++){
